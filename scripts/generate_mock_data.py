@@ -34,7 +34,7 @@ spices = [
     "Chili Powder", 
     "Garlic Powder", 
     "Ginger", 
-    "Tyhme", 
+    "Thyme", 
     "Italian Seasoning",
     "Salt",
     "Onion Powder",

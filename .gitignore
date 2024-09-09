@@ -5,5 +5,7 @@ __pycache__/
 *.db
 *.csv
 .DS_Store
+.env
 
 venv/
+data/
